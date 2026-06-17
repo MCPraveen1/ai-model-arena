@@ -2,6 +2,10 @@
 
 A simple AI model comparison application built using **Groq API** and **Gradio**.
 
+## Screenshot
+
+![AI Model Arena](screenshot.png)
+
 This application allows users to enter a question and compare responses from two different Large Language Models (LLMs) side-by-side:
 
 * **Llama 3.3 70B Versatile**
